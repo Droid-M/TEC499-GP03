@@ -15,7 +15,13 @@ Este projeto foi desenvolvido com a intenção de desenvolver uma aplicação as
 ## 2. Código-fonte
 
 O código fonte deste projeto está escrito em assembly voltado para a arquitetura ARM.
-
-
+### 2.1. Estruta de arquivos
+```
+TEC499-GP03
+│
+|───README.md
+│───readme.md
+|───time.s
+```
 
 
